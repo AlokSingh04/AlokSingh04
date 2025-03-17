@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 🌱 I’m currently learning
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlokSingh04&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlokSingh04&show_icons=true&theme=radical)](https://github.com/AlokSingh04)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlokSingh04)](https://github.com/ryo-ma/github-profile-trophy)
 
 
